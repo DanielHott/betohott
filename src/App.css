@@ -1,0 +1,40 @@
+.logo-header {
+  background-color: black;
+  width: 100%;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  border-bottom: solid 3px rgb(146, 170, 39);
+}
+
+.social-media:hover {
+  transform: scale(1.5, 1.5);
+}
+
+.video-banner {
+  border-bottom: solid 3px rgb(146, 170, 39);
+}
+
+.contact {
+  display: flex;
+}
+
+#co {
+  margin-top: 20%;
+  text-align: center;
+}
+
+.image-contact {
+  margin-top: 0;
+  display: flex;
+  width: 50%;
+  position: static;
+}
+
+.footer {
+  background-color: black;
+  color:white;
+  text-align: center;
+}
