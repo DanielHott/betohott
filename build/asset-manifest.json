@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DanielHott/betohott/static/css/main.b30d231f.css",
+    "main.js": "/DanielHott/betohott/static/js/main.1fbd335f.js",
+    "static/js/787.c1abc611.chunk.js": "/DanielHott/betohott/static/js/787.c1abc611.chunk.js",
+    "static/media/youtube.png": "/DanielHott/betohott/static/media/youtube.8ba14b43cd112b96a2fb.png",
+    "static/media/instabranco.png": "/DanielHott/betohott/static/media/instabranco.7776c9bbb99482d0fea3.png",
+    "index.html": "/DanielHott/betohott/index.html",
+    "main.b30d231f.css.map": "/DanielHott/betohott/static/css/main.b30d231f.css.map",
+    "main.1fbd335f.js.map": "/DanielHott/betohott/static/js/main.1fbd335f.js.map",
+    "787.c1abc611.chunk.js.map": "/DanielHott/betohott/static/js/787.c1abc611.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30d231f.css",
+    "static/js/main.1fbd335f.js"
+  ]
+}
