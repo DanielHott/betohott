@@ -21,7 +21,7 @@ function App() {
         <div 
         className="contact">
         <img 
-        src="https://scontent.fstu5-1.fna.fbcdn.net/v/t1.6435-9/97759782_1105211346513907_7357123019195547648_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE4V801Iaptfz3vrPW4fnb6h7iC-heX7kuHuIL6F5fuS-S-vI5hu3ZVSHPEese0VBVbLumNyC3XUAKmFV7wtX2m&_nc_ohc=ZXGBrMuvmWYAX_ShSXy&_nc_oc=AQmVEBpKjmYwL3qAEi2KLzjD4PMadQmPaISHyc9PIZiqM7xvwQ6RmdT7Vcu0bjTu5fs&_nc_ht=scontent.fstu5-1.fna&oh=00_AT-0S5H1Yob0FM9OCw8ni2J5AcvrdHq4TjTJw5z6kH0GDw&oe=61E1029E"
+        src="https://scontent.fstu5-1.fna.fbcdn.net/v/t1.18169-9/15621801_220283545047617_1606788210209498198_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeG6d8btH2y_aDJIFOBBQNtkq2S8RpiJYDKrZLxGmIlgMvtRzqzwxySS4M9BCGWVUBw-20iGFY5fWRBmdo6Q0YD4&_nc_ohc=mJWpQgHpCfoAX-oZZuV&_nc_ht=scontent.fstu5-1.fna&oh=00_AT_1EX3Ecn910DMHxE38hb_LNlK91D8YAPxBQx3NlTIobQ&oe=620866D2"
         alt="fb"
         className="image-contact"
         > 
@@ -36,7 +36,7 @@ function App() {
         >
         <h2>Contatos</h2>
         <p>Telefone: (24)99823-6271</p>
-        <p>Email: </p>
+        <p>Email: Albertophott@hotmail.com</p>
         </footer>
   </div>
   );

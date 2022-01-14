@@ -19,11 +19,13 @@
 
 .contact {
   display: flex;
+  border-bottom: 5px solid black;
 }
 
 #co {
   margin-top: 20%;
   text-align: center;
+
 }
 
 .image-contact {

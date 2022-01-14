@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/betohott/static/css/main.b30d231f.css",
-    "main.js": "/betohott/static/js/main.121c2dbc.js",
+    "main.css": "/betohott/static/css/main.ddb26d22.css",
+    "main.js": "/betohott/static/js/main.a036d6a6.js",
     "static/js/787.c1abc611.chunk.js": "/betohott/static/js/787.c1abc611.chunk.js",
     "static/media/youtube.png": "/betohott/static/media/youtube.8ba14b43cd112b96a2fb.png",
     "static/media/instabranco.png": "/betohott/static/media/instabranco.7776c9bbb99482d0fea3.png",
     "index.html": "/betohott/index.html",
-    "main.b30d231f.css.map": "/betohott/static/css/main.b30d231f.css.map",
-    "main.121c2dbc.js.map": "/betohott/static/js/main.121c2dbc.js.map",
+    "main.ddb26d22.css.map": "/betohott/static/css/main.ddb26d22.css.map",
+    "main.a036d6a6.js.map": "/betohott/static/js/main.a036d6a6.js.map",
     "787.c1abc611.chunk.js.map": "/betohott/static/js/787.c1abc611.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b30d231f.css",
-    "static/js/main.121c2dbc.js"
+    "static/css/main.ddb26d22.css",
+    "static/js/main.a036d6a6.js"
   ]
 }
